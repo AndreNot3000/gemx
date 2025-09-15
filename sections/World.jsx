@@ -18,7 +18,7 @@ const World = () => (
       <TitleText
         title={(
           <>
-            Track friends around you and invite them to play together in the same world
+            Join thousands of users already trading on GemX. It’s fast, secure, and built for you
           </>
         )}
         textStyles="text-center"

@@ -17,7 +17,7 @@ const About = () => (
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
       <TypingText
-        title="| About Metadroid"
+        title="| About GemX"
         textStyles="text-center"
       />
 
@@ -25,7 +25,7 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold"> Metadroid </span> is a new thing in the future, where you can enjoy the virtual world by feeling like it's really real, you can feel what you feel in this metaverse world, because this is really the <span className="font-extrabold">madness of the metaverse</span> of today, using only <span className="font-extrabold">VR</span> devices you can easily explore the metaverse world you want, turn your dreams into reality. Let's <span className="font-extrabold">explore</span> the madness of the metaverse by scrolling down
+        <span className="font-extrabold"> GemX </span> is a next-generation crypto exchange built for everyone — from beginners to pro traders., Our platform makes it simple to <span className="font-extrabold">buy and sell coins instantly</span> or trade securely through <span className="font-extrabold">peer-to-peer (P2P) transactions. </span> With advanced security, fast settlements, and 24/7 access, we’re redefining how you trade crypto <br /> <span className="font-extrabold">explore</span> our services by scrolling down
       </motion.p>
 
       <motion.img

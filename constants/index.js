@@ -1,68 +1,68 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    imgUrl: '/bit1.jpg',
+    title: 'Bank-Grade Security',
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    imgUrl: '/bit2.jpg',
+    title: 'Instant Settlements',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Hueco Mundo',
+    title: 'Instant Settlements',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: 'All-in-One Platform',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: 'Advanced Trading Tools',
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading precaution to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Buy and sell coins instantly, or trade securely via P2P',
+  'Trade anywhere, anytime — with support for multiple fiat currencies',
+  'Advanced charting, analytics, and APIs for professional traders',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'Simplicity',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'we believe crypto trading should be simple, secure, and accessible to all',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Diversified',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'Whether you’re buying your first Bitcoin or managing a diversified portfolio, GemX is built to support you',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse and be happy :)',
+    title: 'Lorem ipsum dolor sit amet consectetur adipiscing elit :)',
     subtitle:
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: 'Lorem ipsum dolor sit amet consectetur adipiscing elit :)',
     subtitle:
         'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'Lorem ipsum dolor sit amet consectetur adipiscing elit :)',
     subtitle:
         'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
   },
@@ -77,11 +77,11 @@ export const socials = [
   {
     name: 'linkedin',
     url: '/linkedin.svg',
-    link: 'https://www.linkedin.com/in/vigneshgupta/',
+    link: 'https://www.linkedin.com/in/olumideandre/',
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
-    link: 'https://www.instagram.com/_viggi.g_/',
+    link: 'https://www.instagram.com/AsapDre/',
   },
 ];
